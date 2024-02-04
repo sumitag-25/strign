@@ -1,0 +1,2 @@
+# strign
+explain strings
